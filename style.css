@@ -25,6 +25,10 @@ main{
     justify-content: center;
 }
 
+h1{
+    display: none;
+}
+
 .card{
     background-color: hsl(0, 0%, 100%);
     display: flex;
