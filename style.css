@@ -67,10 +67,5 @@ main{
     body{
         min-width: 375px;
     }
-
-    .card{
-        width: 80%;
-        height: 90%;
-    }
 }
 
